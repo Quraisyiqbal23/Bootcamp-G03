@@ -21,3 +21,7 @@ baris pertintah dalam html disebut tag
 jumlah tag header ada 6 dari h1 sampai h6
 
 <!-- tag  paragraph -->
+
+git add | tambah folder
+git commit -m "menambahkan perubahan "
+gitu push

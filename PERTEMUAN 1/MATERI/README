@@ -1,1 +1,23 @@
 Bootcam laravel vue
+
+git init |inisiasi folder
+git add | tambah folder
+git commit -m "menambah history"
+git push -u origin master
+
+web basic
+
+html
+css
+JS
+php
+
+<!-- tag komentar -->
+
+baris pertintah dalam html disebut tag
+
+<!-- tag header -->
+
+jumlah tag header ada 6 dari h1 sampai h6
+
+<!-- tag  paragraph -->

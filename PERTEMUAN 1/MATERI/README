@@ -25,3 +25,5 @@ jumlah tag header ada 6 dari h1 sampai h6
 git add | tambah folder
 git commit -m "menambahkan perubahan "
 gitu push
+
+tests

@@ -1,0 +1,22 @@
+tulis sepuluh tag yang display inline
+1.<p>  
+2.<address>
+3.<hr>
+4.<nav>
+5.<div>
+6.<video>
+7.<pre>
+8.<tfoot>
+9.<ul>
+10. <h1>-<h6>
+tulis sepuluh tag yang display blok
+1. <a>
+2. <sub>
+3. <button>
+4. <input>
+5. <script>
+6. <select>
+7.<br> 
+8. <img>
+9.<label>
+10. <code>

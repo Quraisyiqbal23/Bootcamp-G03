@@ -1,0 +1,10 @@
+Metode css
+
+inline css = kode css dibaris kode
+internal = styling css di head
+eksternal = kode css dipisah di file berbeda
+
+anatomy css =
+selector {
+property = value
+}

@@ -1,0 +1,17 @@
+Seorang pengajar ingin membuat sebuah halaman web sederhana untuk membagikan bahan ajaran kepada siswa-siswinya. Halaman web tersebut harus terdiri dari dua bagian utama: bagian header dan bagian konten.
+
+Bagian header harus terdiri dari judul halaman yang ditampilkan dalam tag <h1>, dan menu navigasi yang terdiri dari beberapa tautan yang mengarahkan ke halaman-halaman penting lainnya.
+
+Bagian konten harus terdiri dari beberapa bagian yang berisi bahan ajaran, seperti daftar isi, materi pembelajaran, dan contoh soal.
+
+Untuk membuat halaman web ini, beberapa tag HTML yang mungkin digunakan antara lain:
+
+- <html>, <head>, dan <body> untuk mengorganisir struktur halaman
+- <h1> untuk menampilkan judul halaman
+- <nav> dan <ul> untuk membuat menu navigasi
+- <a> untuk membuat tautan ke halaman-halaman lainnya
+- <h2> untuk menampilkan judul bagian konten
+- <ol> dan <li> untuk membuat daftar isi
+- <p> untuk menampilkan isi bahan ajaran
+
+Dengan mempelajari tag-tag HTML dan cara menggunakannya, seorang web developer dapat membuat halaman web sederhana seperti yang dijelaskan dalam studi kasus di atas, dan menyajikan bahan ajaran dengan mudah kepada siswa-siswinya.

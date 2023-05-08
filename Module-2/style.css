@@ -1,0 +1,187 @@
+.container {
+  position: absolute;
+  width: 1440px;
+  height: 1024px;
+  left: 0px;
+  top: 0px;
+
+  background: linear-gradient(180deg, #7adae8 0%, #0ba1dd 100%);
+}
+.MyWeb {
+  position: absolute;
+  width: 193px;
+  height: 58px;
+  left: 77px;
+  top: 48px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 58px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.home {
+  position: absolute;
+  width: 82px;
+  height: 29px;
+  left: 380px;
+  top: 63px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+.contact {
+  position: absolute;
+  width: 90px;
+  height: 29px;
+  left: 515px;
+  top: 63px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.about {
+  position: absolute;
+  width: 82px;
+  height: 29px;
+  left: 658px;
+  top: 63px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.wellcome {
+  position: absolute;
+  width: 719px;
+  height: 232px;
+  left: 77px;
+  top: 354px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 96px;
+  line-height: 116px;
+
+  color: #ffffff;
+}
+.lorem {
+  position: absolute;
+  width: 773px;
+  height: 48px;
+  left: 83px;
+  top: 600px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #ffffff;
+}
+
+.character_3d {
+  position: absolute;
+  width: 712px;
+  height: 712px;
+  left: 728px;
+  top: 312px;
+
+  background: url(5143730.png);
+}
+
+.kotak1 {
+  position: absolute;
+  width: 227px;
+  height: 61px;
+  left: 83px;
+  top: 707px;
+
+  background: #ffffff;
+  border-radius: 8px;
+}
+
+.chat {
+  position: absolute;
+  width: 95px;
+  height: 29px;
+  left: 70px;
+  top: 0px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  color: #0ba1dd;
+}
+
+.kotak2 {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 227px;
+  height: 61px;
+  left: 326px;
+  top: 707px;
+
+  border: 3px solid #ffffff;
+  border-radius: 8px;
+}
+
+.more {
+  position: absolute;
+  width: 58px;
+  height: 29px;
+  left: 80px;
+  bottom: 0px;
+  top: 0px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 24px;
+  line-height: 29px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+.karakter {
+  /* 5143730 1 */
+
+  position: absolute;
+  width: 712px;
+  height: 712px;
+  left: 728px;
+  top: 312px;
+
+  background: url(5143730.png);
+}

@@ -130,8 +130,8 @@
   position: absolute;
   width: 95px;
   height: 29px;
-  left: 70px;
-  top: 0px;
+  left: 60px;
+  top: -5px;
 
   font-family: "Inter";
   font-style: normal;
@@ -162,7 +162,7 @@
   height: 29px;
   left: 80px;
   bottom: 0px;
-  top: 0px;
+  top: -10px;
 
   font-family: "Inter";
   font-style: normal;

@@ -1,0 +1,234 @@
+.container {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100vh;
+  left: 0px;
+  top: 0px;
+  background: #eeeeee;
+}
+
+.bulatan_pojok {
+  position: absolute;
+  width: 426px;
+  height: 426px;
+  left: 995px;
+  top: -130px;
+
+  background: #00adb5;
+  border-radius: 234px;
+}
+.toggle-button {
+  position: absolute;
+  width: 100px;
+  height: 48px;
+  left: 1189px;
+  top: 59px;
+
+  background: #eeeeee;
+  box-shadow: inset 4px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 24px;
+}
+.awan {
+  position: absolute;
+  left: 87.63%;
+  right: 9.81%;
+  top: 11.84%;
+  bottom: 84.78%;
+  background-image: url(awan.png);
+}
+.form_login {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 750px;
+  height: 400px;
+  background: rgba(255, 255, 255, 0.75);
+  box-shadow: 7px 7px 10px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(10px);
+  /* Note: backdrop-filter has minimal browser support */
+
+  border-radius: 30px;
+}
+.login {
+  position: absolute;
+  width: 121px;
+  height: 56px;
+  left: 500px;
+  top: 0px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 56px;
+
+  color: #00adb5;
+}
+
+.username {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: row;
+  width: 276px;
+  height: 52px;
+  left: 450px;
+  top: 150px;
+
+  background: rgba(0, 0, 0, 0.08);
+  border-radius: 12px;
+}
+.text_username {
+  position: absolute;
+  width: 97px;
+  height: 21px;
+  left: 100px;
+  top: 0px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #c4c4c4;
+}
+
+.password {
+  position: absolute;
+  width: 276px;
+  height: 52px;
+  left: 450px;
+  top: 225px;
+
+  background: rgba(0, 0, 0, 0.08);
+  border-radius: 12px;
+}
+
+.text_password {
+  position: absolute;
+  width: 97px;
+  height: 21px;
+  left: 100px;
+  top: 0px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 21px;
+  /* identical to box height */
+
+  color: #c4c4c4;
+}
+.lupa {
+  position: absolute;
+  width: 94px;
+  height: 15px;
+  left: 455px;
+  top: 280px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13px;
+  line-height: 15px;
+
+  color: #333333;
+}
+
+.klik {
+  position: absolute;
+  width: 94px;
+  height: 15px;
+  left: 570px;
+  top: 280px;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 13px;
+}
+
+.risa {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: row;
+  width: 389px;
+  height: 403px;
+  left: 0px;
+  top: 0px;
+
+  background: #00adb5;
+  box-shadow: 7px 7px 10px rgba(0, 0, 0, 0.25);
+  border-radius: 30px;
+}
+
+.text_risa {
+  position: absolute;
+  width: 217px;
+  height: 42px;
+  left: 40px;
+  top: 70px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+
+  color: #ffffff;
+}
+
+.text_lorem {
+  position: absolute;
+  width: 212px;
+  height: 63px;
+  left: 40px;
+  top: 143px;
+
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+
+  color: #ffffff;
+}
+.contact {
+  display: flex;
+  flex-direction: column;
+  margin-right: 100px;
+}
+
+div.fb {
+  background-image: url("fb.png");
+  margin-top: 0px;
+  top: 800px;
+  left: 0px;
+  height: 30px;
+  width: 30px;
+}
+
+div.instagram {
+  background-image: url("instagram.png");
+  margin-top: 20px;
+
+  height: 30px;
+  width: 30px;
+}
+
+div.wa {
+  background-image: url("wa.png");
+
+  margin-top: 20px;
+
+  top: 860px;
+  left: 0px;
+  height: 25px;
+  width: 25px;
+}

@@ -1,0 +1,64 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  position: relative;
+  font-family: "Roboto", sans-serif;
+  background-color: #eeeeee;
+}
+
+.container-circle {
+  position: relative;
+  display: flex;
+  justify-content: end;
+}
+
+.svg-circle {
+  fill: #00adb5;
+}
+
+.container-circle-1 {
+  position: absolute;
+  top: 25%;
+  right: 5%;
+  background: #eeeeee;
+  width: 20vh;
+  height: 10vh;
+  border-radius: 100px;
+  box-shadow: inset 4px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.btn-dark,
+.btn-light {
+  position: relative;
+  margin-top: 5%;
+  width: 10vh;
+  border: none;
+  background: none;
+}
+
+.svg-sun {
+  padding-left: 20px;
+  height: auto;
+  width: auto;
+}
+.svg-dark {
+  padding-left: 20px;
+  padding-top: -15px;
+  height: auto;
+  width: auto;
+}
+
+.dark-mode {
+  background-color: #171717;
+}
+
+.dark-mode-container-circle {
+  fill: #eeeeee;
+}
+
+.dark-mode-container-circle-1 {
+  background: #171717;
+}

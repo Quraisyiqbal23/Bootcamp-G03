@@ -1,2 +1,7 @@
 buat website dengan fitur dark mode berdasarkan, web dibawah ini :
 https://www.figma.com/file/cjauxS5T9JTL1smQ6YEnO0/studi-case-ad-1?type=design&node-id=0%3A1&t=Hz2EnDjJOU5GjFOX-1
+
+
+Javascript : https://pastebin.com/0giumNjy
+HTML : https://pastebin.com/wrYQvSzy
+CSS : https://pastebin.com/gsG1fx8Y

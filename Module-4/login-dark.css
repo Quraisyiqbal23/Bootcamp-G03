@@ -1,0 +1,35 @@
+.dark-mode-body {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Roboto", sans-serif;
+  background-color: #eeeeee;
+}
+
+.dark-mode-container-circle-1 {
+  background: #171717;
+}
+.dark-mode {
+  background-color: #171717;
+}
+
+.dark-mode-container-circle {
+  fill: #eeeeee;
+}
+
+.svg-dark {
+  position: absolute;
+  top: -2.5vh;
+  right: -9vh;
+}
+
+.dark-mode-login_form {
+  justify-content: right;
+  position: absolute;
+  width: 750px;
+  height: 403px;
+  left: 308px;
+  top: 132px;
+  background: rgba(51, 51, 51, 0.75);
+}
